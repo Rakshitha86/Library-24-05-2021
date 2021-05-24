@@ -1,0 +1,9 @@
+com\xworkz\commonmodule\javamailsender\MailSender.class
+com\xworkz\commonmodule\service\RegisterService.class
+com\xworkz\commonmodule\service\RegisterServiceImpl.class
+com\xworkz\commonmodule\entity\RegisterEntity.class
+com\xworkz\commonmodule\dao\RegisterDAOImpl.class
+com\xworkz\commonmodule\utility\Loggers4j.class
+com\xworkz\commonmodule\dto\RegisterDTO.class
+com\xworkz\commonmodule\dao\RegisterDAO.class
+com\xworkz\commonmodule\controller\RegisterController.class
